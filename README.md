@@ -11,9 +11,11 @@ The purpose of this task is to create a code that will automate stock analyses. 
 ### Analysis of Outcomes Based on Stock Performance
 The code created 3 columns of outputed data, The stocks' tickers, the 
 
-![test](http://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2017.png)
 
-![test](http://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2018.png)
+![Alt text](http://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2017.png)
+![Alt text](http://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2018.png)
+
+![ScreenShot](VBA_Challenge_2018.png)
 
 ![Alt text](https://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2017_Original_Script_time.png)
 
