@@ -8,9 +8,12 @@ My good friend Steve has asked me to help him analyze a handfull of green energy
 The purpose of this task is to create a code that will automate stock analyses. The 2nd purpose of this task is to create a refactored version of this code with the intent of utilization on a lerger scale.
 ## Results
 
-### Analysis of Outcomes Based on 2017 Stock Performance
+### Analysis of Outcomes Based on Stock Performance
+The code created 3 columns of outputed data, The stocks' tickers, the 
 
-### Analysis of Outcomes Based on 2018 Stock Performance
+![test](http://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2017.png)
+
+![test](http://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2018.png)
 
 ## Summary
 
