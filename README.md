@@ -12,13 +12,13 @@ The purpose of this task is to create a code that will automate stock analyses. 
 The code created 3 columns of outputed data, The stocks' tickers, the 
 
 
-![test](resources/VBA_Challenge_2017.png)
+![test](Resources/VBA_Challenge_2017.png)
 ![test](resources/VBA_Challenge_2018.png)
 
 
-![test](resoruces/VBA_Challenge_2017_Original_Script_time.png)
+![test](Resoruces/VBA_Challenge_2017_Original_Script_time.png)
 
-![test](resoures/VBA_Challenge_2018_original_script_time.png)
+![test](Resoures/VBA_Challenge_2018_original_script_time.png)
 
 ## Summary
 
