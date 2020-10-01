@@ -12,14 +12,14 @@ The purpose of this task is to create a code that will automate stock analyses. 
 The code created 3 columns of outputed data, The stocks' tickers, the 
 
 
-![Alt text](http://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2017.png)
-![Alt text](http://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2018.png)
+![test](VBA_Challenge_2017.png)
+![Alt text](VBA_Challenge_2018.png)
 
 ![ScreenShot](VBA_Challenge_2018.png)
 
-![Alt text](https://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2017_Original_Script_time.png)
+![Alt text](VBA_Challenge_2017_Original_Script_time.png)
 
-![Alt text](https://github.com/Jmsambaj/stock-analysis/blob/master/VBA_Challenge_2018_original_script_time.png)
+![Alt text](VBA_Challenge_2018_original_script_time.png)
 
 
 ## Summary
