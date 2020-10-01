@@ -18,7 +18,7 @@ The code created 3 columns of outputed data, The stocks' tickers, the
 
 ![test](Resources/VBA_Challenge_2017_Original_Script_time.png)
 
-![test](Resources/VBA_Challenge_2018_original_script_time.png)
+![test](Resources/VBA_Challenge_2018_Original_Script_time.png)
 
 ## Summary
 
