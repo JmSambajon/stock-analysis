@@ -19,11 +19,11 @@ If you held any of stocks that are highlighted green, you would've made some mon
 
 ![test](Resources/VBA_Challenge_2018.png)
 
-
+Prior to refactoring the code, these scripts ran relatively slower. WHile the difference of a second may not be too much for the run time, there are other advantages that we may encounter in the long run. WHile the output only shows the time difference, the code itself has ab improved deisgn and structure. The improved design helps a lot when trying to make adjustments to the code becuase it will be easier to read. The stucture has improved and will prove to be very useful wehn debugging the code
 ![test](Resources/VBA_Challenge_2017_Original_Script_time.png)
 
 ![test](Resources/VBA_Challenge_2018_Original_Script_time.png)
 
 ## Summary
 
-The advantage biggest advantage of refactoring our code was to see it run fastor. While this is an obvious advantage, there are others as well. Refactored code is easier to maintain when it comes to making adjustments. It helps identifying coding bugs easier, and makes the overall code more short and succicnt. For my case, one of the cons of refactoring the code was trying the understand the changes that were being made, from a logical standpoint. Some of these difficulties came when rewriting loops utilizing variables as indexes. We saw in the refactored script that the code ran quicker than our original script. This will prove to be very useful when handling a lot more stocks. When re have a dataset with all of these additional stocks, the refactored code will have a lot less adjustments that will need to be made.
+To rediterate, the advantages of refactoring our code was to see it run fastor, and a better code design & structure. One of the biggest disadantages of refactoring, in my case, was trying the understand the changes that were being made, from a logical standpoint. Some of these difficulties came when rewriting loops utilizing variables as indexes and calling on arrays using variables as indexes. This disadavtage caused the refactoring process to take a lot of time to do. It proably took me twice the amount of time to refactor the original script, just to make sure all of the logic was correct. The pros and cons of refactoring  code were occruing first hand. We saw in the refactored script that the code ran quicker than our original script. This will prove to be very useful when handling a lot more stocks. I believe that this refactored code will prove to be most useful when we have a dataset with all of many stocks across different markets.
