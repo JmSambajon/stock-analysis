@@ -5,7 +5,7 @@ Performing analysis on stocks to uncover trends
 My good friend Steve has asked me to help him analyze a handfull of green energy stocks in effort to help his parents diversify their portfolio. He has given me an excel file containing all the stock data he'd like me to analyze. I am going to utilize VBA to automate this task. Utilizing VBA code to automate analyses will allow Steve to reuse this code for any stock and reduces the chances of accidents and errors if done manually.
 
 ### Purpose
-The purpose of this task is to create a code that will automate stock analyses. The 2nd purpose of this task is to create a refactored version of this code.
+The purpose of this task is to create a code that will automate stock analyses. VBA will be used for this task.
 ## Results
 
 ### 2017 Stock Analysis
